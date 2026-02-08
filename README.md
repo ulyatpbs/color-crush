@@ -1,4 +1,4 @@
-# Color Crush Game
+# Color Crush Game (**December, 2021** )
 
 A beginner programming exercise written in **December 2021** as Project 4 when first learning programming with Python.
 
